@@ -9,6 +9,17 @@
     ]
   },
   {
+    "id": 966,
+    "title": "Vowel Spellchecker",
+    "title_slug": "vowel-spellchecker",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 1480,
     "title": "Running Sum of 1d Array",
     "title_slug": "running-sum-of-1d-array",
