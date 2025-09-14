@@ -7,6 +7,7 @@
 | # | Title | Difficulty | Skills |
 |---| ----- | ---------- | ------ |
 | 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | Easy | `Math` |
+| 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | Easy | `Array` `Two Pointers` |
 | 0027 | [Remove Element](https://leetcode.com/problems/remove-element) | Easy | `Array` `Two Pointers` |
 | 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | Easy | `Array` `Sorting` `Two Pointers` |
 | 0966 | [Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker) | Medium | `Array` `Hash Table` `String` |
