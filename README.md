@@ -11,6 +11,7 @@
 | 0027 | [Remove Element](https://leetcode.com/problems/remove-element) | Easy | `Array` `Two Pointers` |
 | 0080 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | Medium | `Array` `Two Pointers` |
 | 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | Easy | `Array` `Sorting` `Two Pointers` |
+| 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | Easy | `Array` `Dynamic Programming` |
 | 0169 | [Majority Element](https://leetcode.com/problems/majority-element) | Easy | `Array` `Boyer–Moore Majority Vote Algorithm` `Counting` `Divide and Conquer` `Hash Table` `Sorting` |
 | 0189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | Medium | `Array` `Math` `Two Pointers` |
 | 0966 | [Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker) | Medium | `Array` `Hash Table` `String` |
