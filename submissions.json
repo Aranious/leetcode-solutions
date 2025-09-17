@@ -62,6 +62,15 @@
     ]
   },
   {
+    "id": 58,
+    "title": "Length of Last Word",
+    "title_slug": "length-of-last-word",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
+  },
+  {
     "id": 80,
     "title": "Remove Duplicates from Sorted Array II",
     "title_slug": "remove-duplicates-from-sorted-array-ii",
