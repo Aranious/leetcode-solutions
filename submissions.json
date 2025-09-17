@@ -107,6 +107,17 @@
     ]
   },
   {
+    "id": 274,
+    "title": "H-Index",
+    "title_slug": "h-index",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Counting Sort",
+      "Sorting"
+    ]
+  },
+  {
     "id": 966,
     "title": "Vowel Spellchecker",
     "title_slug": "vowel-spellchecker",
