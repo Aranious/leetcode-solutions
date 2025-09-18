@@ -173,6 +173,17 @@
     ]
   },
   {
+    "id": 383,
+    "title": "Ransom Note",
+    "title_slug": "ransom-note",
+    "difficulty": "Easy",
+    "skills": [
+      "Counting",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 966,
     "title": "Vowel Spellchecker",
     "title_slug": "vowel-spellchecker",
