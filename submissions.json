@@ -183,6 +183,16 @@
     ]
   },
   {
+    "id": 290,
+    "title": "Word Pattern",
+    "title_slug": "word-pattern",
+    "difficulty": "Easy",
+    "skills": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 383,
     "title": "Ransom Note",
     "title_slug": "ransom-note",
