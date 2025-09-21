@@ -172,6 +172,18 @@
     ]
   },
   {
+    "id": 202,
+    "title": "Happy Number",
+    "title_slug": "happy-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Floyd's Cycle Finding Algorithm",
+      "Hash Table",
+      "Math",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 205,
     "title": "Isomorphic Strings",
     "title_slug": "isomorphic-strings",
