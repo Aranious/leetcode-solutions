@@ -270,6 +270,17 @@
     ]
   },
   {
+    "id": 3005,
+    "title": "Count Elements With Maximum Frequency",
+    "title_slug": "count-elements-with-maximum-frequency",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Counting",
+      "Hash Table"
+    ]
+  },
+  {
     "id": 3541,
     "title": "Find Most Frequent Vowel and Consonant",
     "title_slug": "find-most-frequent-vowel-and-consonant",
