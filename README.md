@@ -29,6 +29,7 @@
 | 0274 | [H-Index](https://leetcode.com/problems/h-index) | Medium | `Array` `Counting Sort` `Sorting` |
 | 0290 | [Word Pattern](https://leetcode.com/problems/word-pattern) | Easy | `Hash Table` `String` |
 | 0383 | [Ransom Note](https://leetcode.com/problems/ransom-note) | Easy | `Counting` `Hash Table` `String` |
+| 0392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence) | Easy | `Dynamic Programming` `String` `Two Pointers` |
 | 0966 | [Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker) | Medium | `Array` `Hash Table` `String` |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | Easy | `Array` `Prefix Sum` |
 | 3005 | [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency) | Easy | `Array` `Counting` `Hash Table` |
