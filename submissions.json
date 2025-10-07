@@ -86,6 +86,16 @@
     ]
   },
   {
+    "id": 35,
+    "title": "Search Insert Position",
+    "title_slug": "search-insert-position",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
     "id": 45,
     "title": "Jump Game II",
     "title_slug": "jump-game-ii",
