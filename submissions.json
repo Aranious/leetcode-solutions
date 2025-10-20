@@ -139,6 +139,18 @@
     ]
   },
   {
+    "id": 67,
+    "title": "Add Binary",
+    "title_slug": "add-binary",
+    "difficulty": "Easy",
+    "skills": [
+      "Bit Manipulation",
+      "Math",
+      "Simulation",
+      "String"
+    ]
+  },
+  {
     "id": 80,
     "title": "Remove Duplicates from Sorted Array II",
     "title_slug": "remove-duplicates-from-sorted-array-ii",
