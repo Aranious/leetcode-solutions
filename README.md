@@ -17,6 +17,7 @@
 | 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | Easy | `Array` `Binary Search` |
 | 0045 | [Jump Game II](https://leetcode.com/problems/jump-game-ii) | Medium | `Array` `Dynamic Programming` `Greedy` |
 | 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | Medium | `Array` `Hash Table` `Sorting` `String` |
+| 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | Medium | `Array` `Divide and Conquer` `Dynamic Programming` |
 | 0055 | [Jump Game](https://leetcode.com/problems/jump-game) | Medium | `Array` `Dynamic Programming` `Greedy` |
 | 0058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | Easy | `String` |
 | 0067 | [Add Binary](https://leetcode.com/problems/add-binary) | Easy | `Bit Manipulation` `Math` `Simulation` `String` |
