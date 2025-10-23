@@ -52,6 +52,17 @@
     ]
   },
   {
+    "id": 17,
+    "title": "Letter Combinations of a Phone Number",
+    "title_slug": "letter-combinations-of-a-phone-number",
+    "difficulty": "Medium",
+    "skills": [
+      "Backtracking",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 26,
     "title": "Remove Duplicates from Sorted Array",
     "title_slug": "remove-duplicates-from-sorted-array",
