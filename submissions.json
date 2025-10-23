@@ -192,6 +192,16 @@
     ]
   },
   {
+    "id": 136,
+    "title": "Single Number",
+    "title_slug": "single-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
     "id": 167,
     "title": "Two Sum II - Input Array Is Sorted",
     "title_slug": "two-sum-ii-input-array-is-sorted",
