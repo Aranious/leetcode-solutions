@@ -173,6 +173,17 @@
     ]
   },
   {
+    "id": 74,
+    "title": "Search a 2D Matrix",
+    "title_slug": "search-a-2d-matrix",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Matrix"
+    ]
+  },
+  {
     "id": 80,
     "title": "Remove Duplicates from Sorted Array II",
     "title_slug": "remove-duplicates-from-sorted-array-ii",
