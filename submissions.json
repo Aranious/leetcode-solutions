@@ -399,6 +399,18 @@
     ]
   },
   {
+    "id": 3318,
+    "title": "Find X-Sum of All K-Long Subarrays I",
+    "title_slug": "find-x-sum-of-all-k-long-subarrays-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Heap (Priority Queue)",
+      "Sliding Window"
+    ]
+  },
+  {
     "id": 3541,
     "title": "Find Most Frequent Vowel and Consonant",
     "title_slug": "find-most-frequent-vowel-and-consonant",
