@@ -173,6 +173,17 @@
     ]
   },
   {
+    "id": 69,
+    "title": "Sqrt(x)",
+    "title_slug": "sqrtx",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Search",
+      "Math",
+      "Newton's Method"
+    ]
+  },
+  {
     "id": 74,
     "title": "Search a 2D Matrix",
     "title_slug": "search-a-2d-matrix",
