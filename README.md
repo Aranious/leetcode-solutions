@@ -26,6 +26,7 @@
 | 0069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | Easy | `Binary Search` `Math` `Newton's Method` |
 | 0074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | Medium | `Array` `Binary Search` `Matrix` |
 | 0080 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | Medium | `Array` `Two Pointers` |
+| 0083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | Easy | `Linked List` |
 | 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | Easy | `Array` `Sorting` `Two Pointers` |
 | 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | Easy | `Array` `Dynamic Programming` |
 | 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | Easy | `String` `Two Pointers` |
