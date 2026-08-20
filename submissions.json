@@ -420,6 +420,17 @@
     ]
   },
   {
+    "id": 3069,
+    "title": "Distribute Elements Into Two Arrays I",
+    "title_slug": "distribute-elements-into-two-arrays-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Simulation",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 3318,
     "title": "Find X-Sum of All K-Long Subarrays I",
     "title_slug": "find-x-sum-of-all-k-long-subarrays-i",
