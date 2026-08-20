@@ -161,6 +161,16 @@
     ]
   },
   {
+    "id": 66,
+    "title": "Plus One",
+    "title_slug": "plus-one",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
     "id": 67,
     "title": "Add Binary",
     "title_slug": "add-binary",
