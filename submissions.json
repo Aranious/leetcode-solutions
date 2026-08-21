@@ -256,6 +256,18 @@
     ]
   },
   {
+    "id": 94,
+    "title": "Binary Tree Inorder Traversal",
+    "title_slug": "binary-tree-inorder-traversal",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Tree",
+      "Depth-First Search",
+      "Stack",
+      "Tree"
+    ]
+  },
+  {
     "id": 121,
     "title": "Best Time to Buy and Sell Stock",
     "title_slug": "best-time-to-buy-and-sell-stock",
