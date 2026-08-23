@@ -37,6 +37,7 @@
 | 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | Easy | `String` `Two Pointers` |
 | 0136 | [Single Number](https://leetcode.com/problems/single-number) | Easy | `Array` `Bit Manipulation` |
 | 0137 | [Single Number II](https://leetcode.com/problems/single-number-ii) | Medium | `Array` `Bit Manipulation` |
+| 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | Easy | `Floyd's Cycle Finding Algorithm` `Hash Table` `Linked List` `Two Pointers` |
 | 0167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | Medium | `Array` `Binary Search` `Two Pointers` |
 | 0169 | [Majority Element](https://leetcode.com/problems/majority-element) | Easy | `Array` `Boyer–Moore Majority Vote Algorithm` `Counting` `Divide and Conquer` `Hash Table` `Sorting` |
 | 0189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | Medium | `Array` `Math` `Two Pointers` |
