@@ -445,6 +445,17 @@
     ]
   },
   {
+    "id": 258,
+    "title": "Add Digits",
+    "title_slug": "add-digits",
+    "difficulty": "Easy",
+    "skills": [
+      "Math",
+      "Number Theory",
+      "Simulation"
+    ]
+  },
+  {
     "id": 274,
     "title": "H-Index",
     "title_slug": "h-index",
