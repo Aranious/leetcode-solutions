@@ -588,6 +588,17 @@
     ]
   },
   {
+    "id": 415,
+    "title": "Add Strings",
+    "title_slug": "add-strings",
+    "difficulty": "Easy",
+    "skills": [
+      "Math",
+      "Simulation",
+      "String"
+    ]
+  },
+  {
     "id": 966,
     "title": "Vowel Spellchecker",
     "title_slug": "vowel-spellchecker",
