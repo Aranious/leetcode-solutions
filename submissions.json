@@ -556,6 +556,17 @@
     ]
   },
   {
+    "id": 409,
+    "title": "Longest Palindrome",
+    "title_slug": "longest-palindrome",
+    "difficulty": "Easy",
+    "skills": [
+      "Greedy",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 966,
     "title": "Vowel Spellchecker",
     "title_slug": "vowel-spellchecker",
