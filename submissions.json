@@ -608,6 +608,16 @@
     ]
   },
   {
+    "id": 657,
+    "title": "Robot Return to Origin",
+    "title_slug": "robot-return-to-origin",
+    "difficulty": "Easy",
+    "skills": [
+      "Simulation",
+      "String"
+    ]
+  },
+  {
     "id": 966,
     "title": "Vowel Spellchecker",
     "title_slug": "vowel-spellchecker",
