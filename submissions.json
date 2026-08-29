@@ -642,6 +642,16 @@
     ]
   },
   {
+    "id": 441,
+    "title": "Arranging Coins",
+    "title_slug": "arranging-coins",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Search",
+      "Math"
+    ]
+  },
+  {
     "id": 657,
     "title": "Robot Return to Origin",
     "title_slug": "robot-return-to-origin",
