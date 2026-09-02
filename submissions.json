@@ -760,6 +760,16 @@
     ]
   },
   {
+    "id": 3471,
+    "title": "Find the Largest Almost Missing Integer",
+    "title_slug": "find-the-largest-almost-missing-integer",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
     "id": 3541,
     "title": "Find Most Frequent Vowel and Consonant",
     "title_slug": "find-most-frequent-vowel-and-consonant",
