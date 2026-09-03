@@ -808,5 +808,15 @@
       "Array",
       "Math"
     ]
+  },
+  {
+    "id": 3876,
+    "title": "Construct Uniform Parity Array II",
+    "title_slug": "construct-uniform-parity-array-ii",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Math"
+    ]
   }
 ]
