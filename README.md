@@ -82,3 +82,4 @@
 | 3718 | [Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k) | Easy | `Array` `Hash Table` |
 | 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i) | Easy | `Array` `Math` |
 | 3876 | [Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii) | Medium | `Array` `Math` |
+| 3903 | [Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i) | Easy | `Array` `Prefix Sum` |
