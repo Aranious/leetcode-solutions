@@ -726,6 +726,17 @@
     ]
   },
   {
+    "id": 2287,
+    "title": "Rearrange Characters to Make Target String",
+    "title_slug": "rearrange-characters-to-make-target-string",
+    "difficulty": "Easy",
+    "skills": [
+      "Counting",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 2839,
     "title": "Check if Strings Can be Made Equal With Operations I",
     "title_slug": "check-if-strings-can-be-made-equal-with-operations-i",
