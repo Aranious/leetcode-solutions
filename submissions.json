@@ -828,5 +828,15 @@
       "Array",
       "Prefix Sum"
     ]
+  },
+  {
+    "id": 3904,
+    "title": "Smallest Stable Index II",
+    "title_slug": "smallest-stable-index-ii",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Prefix Sum"
+    ]
   }
 ]
