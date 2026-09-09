@@ -875,6 +875,15 @@
     ]
   },
   {
+    "id": 3871,
+    "title": "Count Commas in Range II",
+    "title_slug": "count-commas-in-range-ii",
+    "difficulty": "Medium",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 3875,
     "title": "Construct Uniform Parity Array I",
     "title_slug": "construct-uniform-parity-array-i",
