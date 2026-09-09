@@ -171,6 +171,16 @@
     ]
   },
   {
+    "id": 39,
+    "title": "Combination Sum",
+    "title_slug": "combination-sum",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
     "id": 45,
     "title": "Jump Game II",
     "title_slug": "jump-game-ii",
