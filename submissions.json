@@ -791,6 +791,17 @@
     ]
   },
   {
+    "id": 2265,
+    "title": "Count Nodes Equal to Average of Subtree",
+    "title_slug": "count-nodes-equal-to-average-of-subtree",
+    "difficulty": "Medium",
+    "skills": [
+      "Binary Tree",
+      "Depth-First Search",
+      "Tree"
+    ]
+  },
+  {
     "id": 2287,
     "title": "Rearrange Characters to Make Target String",
     "title_slug": "rearrange-characters-to-make-target-string",
