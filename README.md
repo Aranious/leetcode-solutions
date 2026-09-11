@@ -87,6 +87,7 @@
 | 3069 | [Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i) | Easy | `Array` `Simulation` `Two Pointers` |
 | 3318 | [Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i) | Easy | `Array` `Hash Table` `Heap (Priority Queue)` `Sliding Window` |
 | 3471 | [Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer) | Easy | `Array` `Hash Table` |
+| 3483 | [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers) | Easy | `Array` `Enumeration` `Hash Table` `Recursion` |
 | 3541 | [Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant) | Easy | `Counting` `Hash Table` `String` |
 | 3622 | [Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product) | Easy | `Math` |
 | 3718 | [Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k) | Easy | `Array` `Hash Table` |
