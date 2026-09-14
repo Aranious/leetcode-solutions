@@ -750,6 +750,16 @@
     ]
   },
   {
+    "id": 836,
+    "title": "Rectangle Overlap",
+    "title_slug": "rectangle-overlap",
+    "difficulty": "Easy",
+    "skills": [
+      "Geometry",
+      "Math"
+    ]
+  },
+  {
     "id": 966,
     "title": "Vowel Spellchecker",
     "title_slug": "vowel-spellchecker",
