@@ -562,6 +562,15 @@
     ]
   },
   {
+    "id": 195,
+    "title": "Tenth Line",
+    "title_slug": "tenth-line",
+    "difficulty": "Easy",
+    "skills": [
+      "Shell"
+    ]
+  },
+  {
     "id": 202,
     "title": "Happy Number",
     "title_slug": "happy-number",
