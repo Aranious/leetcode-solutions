@@ -553,6 +553,15 @@
     ]
   },
   {
+    "id": 193,
+    "title": "Valid Phone Numbers",
+    "title_slug": "valid-phone-numbers",
+    "difficulty": "Easy",
+    "skills": [
+      "Shell"
+    ]
+  },
+  {
     "id": 202,
     "title": "Happy Number",
     "title_slug": "happy-number",
