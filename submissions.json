@@ -512,6 +512,16 @@
     ]
   },
   {
+    "id": 171,
+    "title": "Excel Sheet Column Number",
+    "title_slug": "excel-sheet-column-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Math",
+      "String"
+    ]
+  },
+  {
     "id": 189,
     "title": "Rotate Array",
     "title_slug": "rotate-array",
