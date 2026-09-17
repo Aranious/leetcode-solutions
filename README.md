@@ -78,6 +78,7 @@
 | 0836 | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap) | Easy | `Geometry` `Math` |
 | 0966 | [Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker) | Medium | `Array` `Hash Table` `String` |
 | 1380 | [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix) | Easy | `Array` `Matrix` |
+| 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum) | Medium | `Array` `Binary Search` `Dynamic Programming` `Hash Table` `Sliding Window` |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | Easy | `Array` `Prefix Sum` |
 | 2091 | [Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array) | Medium | `Array` `Greedy` |
 | 2265 | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree) | Medium | `Binary Tree` `Depth-First Search` `Tree` |
