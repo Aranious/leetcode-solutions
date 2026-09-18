@@ -862,6 +862,15 @@
     ]
   },
   {
+    "id": 1470,
+    "title": "Shuffle the Array",
+    "title_slug": "shuffle-the-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array"
+    ]
+  },
+  {
     "id": 1477,
     "title": "Find Two Non-overlapping Sub-arrays Each With Target Sum",
     "title_slug": "find-two-non-overlapping-sub-arrays-each-with-target-sum",
