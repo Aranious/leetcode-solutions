@@ -60,6 +60,7 @@
 | 0191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) | Easy | `Bit Manipulation` `Divide and Conquer` |
 | 0193 | [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers) | Easy | `Shell` |
 | 0195 | [Tenth Line](https://leetcode.com/problems/tenth-line) | Easy | `Shell` |
+| 0198 | [House Robber](https://leetcode.com/problems/house-robber) | Medium | `Array` `Dynamic Programming` |
 | 0202 | [Happy Number](https://leetcode.com/problems/happy-number) | Easy | `Floyd's Cycle Finding Algorithm` `Hash Table` `Math` `Two Pointers` |
 | 0205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | Easy | `Hash Table` `String` |
 | 0219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) | Easy | `Array` `Hash Table` `Sliding Window` |
