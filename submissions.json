@@ -830,6 +830,16 @@
     ]
   },
   {
+    "id": 747,
+    "title": "Largest Number At Least Twice of Others",
+    "title_slug": "largest-number-at-least-twice-of-others",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
     "id": 836,
     "title": "Rectangle Overlap",
     "title_slug": "rectangle-overlap",
