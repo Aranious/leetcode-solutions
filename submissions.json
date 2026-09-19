@@ -882,6 +882,20 @@
     ]
   },
   {
+    "id": 1472,
+    "title": "Design Browser History",
+    "title_slug": "design-browser-history",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Data Stream",
+      "Design",
+      "Doubly-Linked List",
+      "Linked List",
+      "Stack"
+    ]
+  },
+  {
     "id": 1477,
     "title": "Find Two Non-overlapping Sub-arrays Each With Target Sum",
     "title_slug": "find-two-non-overlapping-sub-arrays-each-with-target-sum",
