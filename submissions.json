@@ -871,6 +871,17 @@
     ]
   },
   {
+    "id": 1471,
+    "title": "The k Strongest Values in an Array",
+    "title_slug": "the-k-strongest-values-in-an-array",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Sorting",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 1477,
     "title": "Find Two Non-overlapping Sub-arrays Each With Target Sum",
     "title_slug": "find-two-non-overlapping-sub-arrays-each-with-target-sum",
