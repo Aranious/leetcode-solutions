@@ -82,6 +82,7 @@
 | 0628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers) | Easy | `Array` `Math` `Sorting` |
 | 0657 | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin) | Easy | `Simulation` `String` |
 | 0680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii) | Easy | `Greedy` `String` `Two Pointers` |
+| 0746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs) | Easy | `Array` `Dynamic Programming` |
 | 0836 | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap) | Easy | `Geometry` `Math` |
 | 0966 | [Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker) | Medium | `Array` `Hash Table` `String` |
 | 1380 | [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix) | Easy | `Array` `Matrix` |

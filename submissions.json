@@ -820,6 +820,16 @@
     ]
   },
   {
+    "id": 746,
+    "title": "Min Cost Climbing Stairs",
+    "title_slug": "min-cost-climbing-stairs",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
     "id": 836,
     "title": "Rectangle Overlap",
     "title_slug": "rectangle-overlap",
