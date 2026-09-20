@@ -1173,6 +1173,19 @@
     ]
   },
   {
+    "id": 3633,
+    "title": "Earliest Finish Time for Land and Water Rides I",
+    "title_slug": "earliest-finish-time-for-land-and-water-rides-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Greedy",
+      "Sorting",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 3718,
     "title": "Smallest Missing Multiple of K",
     "title_slug": "smallest-missing-multiple-of-k",
