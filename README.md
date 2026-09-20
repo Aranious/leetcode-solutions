@@ -12,6 +12,7 @@
 | 0004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | Hard | `Array` `Binary Search` `Divide and Conquer` |
 | 0005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | Medium | `Dynamic Programming` `Manacher` `String` `Two Pointers` |
 | 0006 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion) | Medium | `String` |
+| 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | Medium | `Math` |
 | 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | Easy | `Math` |
 | 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | Easy | `Hash Table` `Math` `String` |
 | 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | Easy | `Array` `String` `Trie` |
