@@ -1012,6 +1012,17 @@
     ]
   },
   {
+    "id": 2144,
+    "title": "Minimum Cost of Buying Candies With Discount",
+    "title_slug": "minimum-cost-of-buying-candies-with-discount",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
     "id": 2265,
     "title": "Count Nodes Equal to Average of Subtree",
     "title_slug": "count-nodes-equal-to-average-of-subtree",
