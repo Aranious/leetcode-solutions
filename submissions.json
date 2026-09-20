@@ -1080,6 +1080,16 @@
     ]
   },
   {
+    "id": 3498,
+    "title": "Reverse Degree of a String",
+    "title_slug": "reverse-degree-of-a-string",
+    "difficulty": "Easy",
+    "skills": [
+      "Simulation",
+      "String"
+    ]
+  },
+  {
     "id": 3536,
     "title": "Maximum Product of Two Digits",
     "title_slug": "maximum-product-of-two-digits",
