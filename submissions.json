@@ -1057,6 +1057,16 @@
     ]
   },
   {
+    "id": 2574,
+    "title": "Left and Right Sum Differences",
+    "title_slug": "left-and-right-sum-differences",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Prefix Sum"
+    ]
+  },
+  {
     "id": 2839,
     "title": "Check if Strings Can be Made Equal With Operations I",
     "title_slug": "check-if-strings-can-be-made-equal-with-operations-i",
