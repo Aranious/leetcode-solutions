@@ -1206,6 +1206,16 @@
     ]
   },
   {
+    "id": 3550,
+    "title": "Smallest Index With Digit Sum Equal to Index",
+    "title_slug": "smallest-index-with-digit-sum-equal-to-index",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
     "id": 3622,
     "title": "Check Divisibility by Digit Sum and Product",
     "title_slug": "check-divisibility-by-digit-sum-and-product",
