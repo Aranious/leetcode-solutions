@@ -925,6 +925,18 @@
     ]
   },
   {
+    "id": 921,
+    "title": "Minimum Add to Make Parentheses Valid",
+    "title_slug": "minimum-add-to-make-parentheses-valid",
+    "difficulty": "Medium",
+    "skills": [
+      "Bracket Sequences",
+      "Greedy",
+      "Stack",
+      "String"
+    ]
+  },
+  {
     "id": 966,
     "title": "Vowel Spellchecker",
     "title_slug": "vowel-spellchecker",
