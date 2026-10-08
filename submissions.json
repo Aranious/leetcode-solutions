@@ -959,6 +959,17 @@
     ]
   },
   {
+    "id": 1021,
+    "title": "Remove Outermost Parentheses",
+    "title_slug": "remove-outermost-parentheses",
+    "difficulty": "Easy",
+    "skills": [
+      "Bracket Sequences",
+      "Stack",
+      "String"
+    ]
+  },
+  {
     "id": 1331,
     "title": "Rank Transform of an Array",
     "title_slug": "rank-transform-of-an-array",
