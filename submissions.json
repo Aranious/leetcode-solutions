@@ -1081,6 +1081,16 @@
     ]
   },
   {
+    "id": 1732,
+    "title": "Find the Highest Altitude",
+    "title_slug": "find-the-highest-altitude",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Prefix Sum"
+    ]
+  },
+  {
     "id": 2091,
     "title": "Removing Minimum and Maximum From Array",
     "title_slug": "removing-minimum-and-maximum-from-array",
