@@ -1403,5 +1403,12 @@
       "Array",
       "Prefix Sum"
     ]
+  },
+  {
+    "id": 4078,
+    "title": "Three Fibonacci Sum",
+    "title_slug": "three-fibonacci-sum",
+    "difficulty": "Easy",
+    "skills": []
   }
 ]
