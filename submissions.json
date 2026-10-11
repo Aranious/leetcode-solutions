@@ -1410,5 +1410,12 @@
     "title_slug": "three-fibonacci-sum",
     "difficulty": "Easy",
     "skills": []
+  },
+  {
+    "id": 4079,
+    "title": "Prime Subset Selection I",
+    "title_slug": "prime-subset-selection-i",
+    "difficulty": "Medium",
+    "skills": []
   }
 ]

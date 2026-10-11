@@ -138,3 +138,4 @@
 | 3903 | [Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i) | Easy | `Array` `Prefix Sum` |
 | 3904 | [Smallest Stable Index II](https://leetcode.com/problems/smallest-stable-index-ii) | Medium | `Array` `Prefix Sum` |
 | 4078 | [Three Fibonacci Sum](https://leetcode.com/problems/three-fibonacci-sum) | Easy |  |
+| 4079 | [Prime Subset Selection I](https://leetcode.com/problems/prime-subset-selection-i) | Medium |  |
