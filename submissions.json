@@ -1091,6 +1091,19 @@
     ]
   },
   {
+    "id": 1979,
+    "title": "Find Greatest Common Divisor of Array",
+    "title_slug": "find-greatest-common-divisor-of-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Euclidean Algorithm",
+      "Greatest Common Divisor",
+      "Math",
+      "Number Theory"
+    ]
+  },
+  {
     "id": 2091,
     "title": "Removing Minimum and Maximum From Array",
     "title_slug": "removing-minimum-and-maximum-from-array",
