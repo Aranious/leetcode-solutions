@@ -1166,6 +1166,16 @@
     ]
   },
   {
+    "id": 2778,
+    "title": "Sum of Squares of Special Elements ",
+    "title_slug": "sum-of-squares-of-special-elements",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Enumeration"
+    ]
+  },
+  {
     "id": 2784,
     "title": "Check if Array is Good",
     "title_slug": "check-if-array-is-good",
