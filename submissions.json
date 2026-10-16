@@ -1196,6 +1196,18 @@
     ]
   },
   {
+    "id": 2913,
+    "title": "Subarrays Distinct Element Sum of Squares I",
+    "title_slug": "subarrays-distinct-element-sum-of-squares-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Binary Indexed Tree",
+      "Hash Table",
+      "Segment Tree"
+    ]
+  },
+  {
     "id": 2996,
     "title": "Smallest Missing Integer Greater Than Sequential Prefix Sum",
     "title_slug": "smallest-missing-integer-greater-than-sequential-prefix-sum",
