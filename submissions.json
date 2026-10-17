@@ -1350,6 +1350,17 @@
     ]
   },
   {
+    "id": 3551,
+    "title": "Minimum Swaps to Sort by Digit Sum",
+    "title_slug": "minimum-swaps-to-sort-by-digit-sum",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Sorting"
+    ]
+  },
+  {
     "id": 3622,
     "title": "Check Divisibility by Digit Sum and Product",
     "title_slug": "check-divisibility-by-digit-sum-and-product",
