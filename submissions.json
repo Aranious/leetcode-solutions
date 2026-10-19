@@ -1115,6 +1115,17 @@
     ]
   },
   {
+    "id": 2089,
+    "title": "Find Target Indices After Sorting Array",
+    "title_slug": "find-target-indices-after-sorting-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Sorting"
+    ]
+  },
+  {
     "id": 2091,
     "title": "Removing Minimum and Maximum From Array",
     "title_slug": "removing-minimum-and-maximum-from-array",
