@@ -114,6 +114,7 @@
 | 2144 | [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount) | Easy | `Array` `Greedy` `Sorting` |
 | 2265 | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree) | Medium | `Binary Tree` `Depth-First Search` `Tree` |
 | 2287 | [Rearrange Characters to Make Target String](https://leetcode.com/problems/rearrange-characters-to-make-target-string) | Easy | `Counting` `Hash Table` `String` |
+| 2409 | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together) | Easy | `Math` `String` |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings) | Hard | `Dynamic Programming` `Greedy` `String` `Two Pointers` |
 | 2553 | [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array) | Easy | `Array` `Simulation` |
 | 2574 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences) | Easy | `Array` `Prefix Sum` |

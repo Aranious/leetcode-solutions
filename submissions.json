@@ -1169,6 +1169,16 @@
     ]
   },
   {
+    "id": 2409,
+    "title": "Count Days Spent Together",
+    "title_slug": "count-days-spent-together",
+    "difficulty": "Easy",
+    "skills": [
+      "Math",
+      "String"
+    ]
+  },
+  {
     "id": 2472,
     "title": "Maximum Number of Non-overlapping Palindrome Substrings",
     "title_slug": "maximum-number-of-non-overlapping-palindrome-substrings",
