@@ -873,6 +873,17 @@
     ]
   },
   {
+    "id": 506,
+    "title": "Relative Ranks",
+    "title_slug": "relative-ranks",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Heap (Priority Queue)",
+      "Sorting"
+    ]
+  },
+  {
     "id": 628,
     "title": "Maximum Product of Three Numbers",
     "title_slug": "maximum-product-of-three-numbers",
