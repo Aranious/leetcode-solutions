@@ -884,6 +884,15 @@
     ]
   },
   {
+    "id": 520,
+    "title": "Detect Capital",
+    "title_slug": "detect-capital",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
+  },
+  {
     "id": 628,
     "title": "Maximum Product of Three Numbers",
     "title_slug": "maximum-product-of-three-numbers",
