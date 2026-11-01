@@ -863,6 +863,16 @@
     ]
   },
   {
+    "id": 504,
+    "title": "Base 7",
+    "title_slug": "base-7",
+    "difficulty": "Easy",
+    "skills": [
+      "Math",
+      "String"
+    ]
+  },
+  {
     "id": 628,
     "title": "Maximum Product of Three Numbers",
     "title_slug": "maximum-product-of-three-numbers",
