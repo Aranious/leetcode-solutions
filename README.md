@@ -140,6 +140,7 @@
 | 3622 | [Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product) | Easy | `Math` |
 | 3633 | [Earliest Finish Time for Land and Water Rides I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i) | Easy | `Array` `Binary Search` `Greedy` `Sorting` `Two Pointers` |
 | 3718 | [Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k) | Easy | `Array` `Hash Table` |
+| 3736 | [Minimum Moves to Equal Array Elements III](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii) | Easy | `Array` `Math` |
 | 3838 | [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping) | Easy | `Array` `Simulation` `String` |
 | 3870 | [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range) | Easy | `Math` |
 | 3871 | [Count Commas in Range II](https://leetcode.com/problems/count-commas-in-range-ii) | Medium | `Math` |
