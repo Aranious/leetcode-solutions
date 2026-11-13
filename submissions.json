@@ -1316,6 +1316,15 @@
     ]
   },
   {
+    "id": 3105,
+    "title": "Longest Strictly Increasing or Strictly Decreasing Subarray",
+    "title_slug": "longest-strictly-increasing-or-strictly-decreasing-subarray",
+    "difficulty": "Easy",
+    "skills": [
+      "Array"
+    ]
+  },
+  {
     "id": 3120,
     "title": "Count the Number of Special Characters I",
     "title_slug": "count-the-number-of-special-characters-i",
