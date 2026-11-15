@@ -109,6 +109,7 @@
 | 1472 | [Design Browser History](https://leetcode.com/problems/design-browser-history) | Medium | `Array` `Data Stream` `Design` `Doubly-Linked List` `Linked List` `Stack` |
 | 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum) | Medium | `Array` `Binary Search` `Dynamic Programming` `Hash Table` `Sliding Window` |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | Easy | `Array` `Prefix Sum` |
+| 1524 | [Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum) | Medium | `Array` `Dynamic Programming` `Math` `Prefix Sum` |
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses) | Easy | `Bracket Sequences` `Stack` `String` |
 | 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude) | Easy | `Array` `Prefix Sum` |
 | 1979 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array) | Easy | `Array` `Euclidean Algorithm` `Greatest Common Divisor` `Math` `Number Theory` |

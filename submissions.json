@@ -1111,6 +1111,18 @@
     ]
   },
   {
+    "id": 1524,
+    "title": "Number of Sub-arrays With Odd Sum",
+    "title_slug": "number-of-sub-arrays-with-odd-sum",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Math",
+      "Prefix Sum"
+    ]
+  },
+  {
     "id": 1614,
     "title": "Maximum Nesting Depth of the Parentheses",
     "title_slug": "maximum-nesting-depth-of-the-parentheses",
