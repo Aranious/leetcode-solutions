@@ -914,6 +914,15 @@
     ]
   },
   {
+    "id": 674,
+    "title": "Longest Continuous Increasing Subsequence",
+    "title_slug": "longest-continuous-increasing-subsequence",
+    "difficulty": "Easy",
+    "skills": [
+      "Array"
+    ]
+  },
+  {
     "id": 680,
     "title": "Valid Palindrome II",
     "title_slug": "valid-palindrome-ii",
