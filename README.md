@@ -132,6 +132,7 @@
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray) | Easy | `Array` |
 | 3120 | [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i) | Easy | `Hash Table` `String` |
 | 3318 | [Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i) | Easy | `Array` `Hash Table` `Heap (Priority Queue)` `Sliding Window` |
+| 3364 | [Minimum Positive Sum Subarray ](https://leetcode.com/problems/minimum-positive-sum-subarray) | Easy | `Array` `Prefix Sum` `Sliding Window` |
 | 3471 | [Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer) | Easy | `Array` `Hash Table` |
 | 3483 | [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers) | Easy | `Array` `Enumeration` `Hash Table` `Recursion` |
 | 3498 | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string) | Easy | `Simulation` `String` |
