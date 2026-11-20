@@ -1198,6 +1198,16 @@
     ]
   },
   {
+    "id": 2243,
+    "title": "Calculate Digit Sum of a String",
+    "title_slug": "calculate-digit-sum-of-a-string",
+    "difficulty": "Easy",
+    "skills": [
+      "Simulation",
+      "String"
+    ]
+  },
+  {
     "id": 2265,
     "title": "Count Nodes Equal to Average of Subtree",
     "title_slug": "count-nodes-equal-to-average-of-subtree",
