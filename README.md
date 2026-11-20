@@ -59,6 +59,7 @@
 | 0144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | Easy | `Binary Tree` `Depth-First Search` `Stack` `Tree` |
 | 0145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | Easy | `Binary Tree` `Depth-First Search` `Stack` `Tree` |
 | 0147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list) | Medium | `Linked List` `Sorting` |
+| 0148 | [Sort List](https://leetcode.com/problems/sort-list) | Medium | `Divide and Conquer` `Linked List` `Merge Sort` `Sorting` `Two Pointers` |
 | 0167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | Medium | `Array` `Binary Search` `Two Pointers` |
 | 0168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title) | Easy | `Math` `String` |
 | 0169 | [Majority Element](https://leetcode.com/problems/majority-element) | Easy | `Array` `Boyer–Moore Majority Vote Algorithm` `Counting` `Divide and Conquer` `Hash Table` `Sorting` |
