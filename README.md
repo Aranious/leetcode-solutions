@@ -122,6 +122,7 @@
 | 2409 | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together) | Easy | `Math` `String` |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings) | Hard | `Dynamic Programming` `Greedy` `String` `Two Pointers` |
 | 2553 | [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array) | Easy | `Array` `Simulation` |
+| 2567 | [Minimum Score by Changing Two Elements](https://leetcode.com/problems/minimum-score-by-changing-two-elements) | Medium | `Array` `Greedy` `Sorting` |
 | 2574 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences) | Easy | `Array` `Prefix Sum` |
 | 2778 | [Sum of Squares of Special Elements ](https://leetcode.com/problems/sum-of-squares-of-special-elements) | Easy | `Array` `Enumeration` |
 | 2784 | [Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good) | Easy | `Array` `Hash Table` `Sorting` |

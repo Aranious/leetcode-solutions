@@ -1252,6 +1252,17 @@
     ]
   },
   {
+    "id": 2567,
+    "title": "Minimum Score by Changing Two Elements",
+    "title_slug": "minimum-score-by-changing-two-elements",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
     "id": 2574,
     "title": "Left and Right Sum Differences",
     "title_slug": "left-and-right-sum-differences",
