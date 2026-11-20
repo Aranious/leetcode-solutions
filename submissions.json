@@ -566,6 +566,16 @@
     ]
   },
   {
+    "id": 147,
+    "title": "Insertion Sort List",
+    "title_slug": "insertion-sort-list",
+    "difficulty": "Medium",
+    "skills": [
+      "Linked List",
+      "Sorting"
+    ]
+  },
+  {
     "id": 167,
     "title": "Two Sum II - Input Array Is Sorted",
     "title_slug": "two-sum-ii-input-array-is-sorted",
