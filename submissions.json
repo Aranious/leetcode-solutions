@@ -715,6 +715,17 @@
     ]
   },
   {
+    "id": 217,
+    "title": "Contains Duplicate",
+    "title_slug": "contains-duplicate",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Sorting"
+    ]
+  },
+  {
     "id": 219,
     "title": "Contains Duplicate II",
     "title_slug": "contains-duplicate-ii",
