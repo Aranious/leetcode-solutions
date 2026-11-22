@@ -124,6 +124,7 @@
 | 1979 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array) | Easy | `Array` `Euclidean Algorithm` `Greatest Common Divisor` `Math` `Number Theory` |
 | 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array) | Easy | `Array` `Binary Search` `Sorting` |
 | 2091 | [Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array) | Medium | `Array` `Greedy` |
+| 2124 | [Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs) | Easy | `String` |
 | 2144 | [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount) | Easy | `Array` `Greedy` `Sorting` |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string) | Easy | `Simulation` `String` |
 | 2265 | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree) | Medium | `Binary Tree` `Depth-First Search` `Tree` |

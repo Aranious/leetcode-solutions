@@ -1276,6 +1276,15 @@
     ]
   },
   {
+    "id": 2124,
+    "title": "Check if All A's Appears Before All B's",
+    "title_slug": "check-if-all-as-appears-before-all-bs",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
+  },
+  {
     "id": 2144,
     "title": "Minimum Cost of Buying Candies With Discount",
     "title_slug": "minimum-cost-of-buying-candies-with-discount",
