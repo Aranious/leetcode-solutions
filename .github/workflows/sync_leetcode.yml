@@ -2,7 +2,7 @@ name: LeetSyncMaster
 on:
   workflow_dispatch: # Allows you to manually trigger it
   schedule:
-    - cron: '0 0 * * *' # Runs automatically every day at midnight UTC
+    - cron: '30 2 * * *' # Runs automatically every day
 jobs:
   build:
     runs-on: ubuntu-latest
