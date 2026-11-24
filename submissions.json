@@ -1541,6 +1541,19 @@
     ]
   },
   {
+    "id": 3411,
+    "title": "Maximum Subarray With Equal Products",
+    "title_slug": "maximum-subarray-with-equal-products",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Enumeration",
+      "Math",
+      "Number Theory",
+      "Sliding Window"
+    ]
+  },
+  {
     "id": 3471,
     "title": "Find the Largest Almost Missing Integer",
     "title_slug": "find-the-largest-almost-missing-integer",
